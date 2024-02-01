@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Hizb</h1>
 <h3 align="center">Unleashing Mobile Magic: React Native Revelations</h3>
 
